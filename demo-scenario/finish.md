@@ -1,1 +1,1 @@
-You've completed your first Katacoda scenario!
+"environment": { "uilayout": "terminal" }, "backend": { "imageid": "kubernetes-cluster-running:1.18" }

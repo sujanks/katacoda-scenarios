@@ -1,7 +1,3 @@
-This is your first step.
+This environment has a launch.sh{{execute}}
 
-## Task
-
-This is an _example_ of creating a scenario and running a **command**
-
-`echo 'Hello World'`{{execute}}
+You can get with kubectl get nodes{{execute}}
