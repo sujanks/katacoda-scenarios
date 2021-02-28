@@ -1,3 +1,8 @@
 This environment has a `launch.sh`{{execute}}
 
-You can get with `kubectl get nodes`{{execute}}
+Can you get the following information
+
+```
+* how many namespaces are there
+* count the number of nodes
+```
