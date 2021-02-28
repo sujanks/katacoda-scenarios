@@ -1,0 +1,1 @@
+echo "running the startup script"
