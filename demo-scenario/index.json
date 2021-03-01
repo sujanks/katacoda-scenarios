@@ -3,6 +3,14 @@
   "description": "Multi node Kubernetes cluster configured using Kubeadm",
   "time": "30 minutes",
   "details": {
+    "assets": {
+      "client": [
+        {
+          "file": "*",
+          "target": "/home/test"
+        }
+      ] 
+    },
     "steps": [
       {
         "title": "Step 1",
