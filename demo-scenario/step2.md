@@ -3,5 +3,5 @@ Get the helm versions
 
 Create a small helm chart 
 ```
-* image is busybox
+image is busybox
 ```
